@@ -16,9 +16,11 @@
 1. Vuforia Engine SDK- [v10.0+](https://developer.vuforia.com/downloads/SDK)
 2. Lean Touch- [here](https://assetstore.unity.com/packages/tools/input-management/lean-touch-30111)
 
+### 3D object converted from 2D image
+
 ![image](https://user-images.githubusercontent.com/47271051/167644835-20eee60d-b69a-4bae-8b27-f4fcf9740e72.png)
 
-![image](https://user-images.githubusercontent.com/47271051/167645003-6b644c39-710b-4af1-8234-d49caadbd412.png)           ![image](https://user-images.githubusercontent.com/47271051/167645124-e217ae21-e58e-4d1b-add1-3925900cdaed.png)
+![image](https://user-images.githubusercontent.com/47271051/167645003-6b644c39-710b-4af1-8234-d49caadbd412.png=100x100)           ![image](https://user-images.githubusercontent.com/47271051/167645124-e217ae21-e58e-4d1b-add1-3925900cdaed.png)
 
 
 
